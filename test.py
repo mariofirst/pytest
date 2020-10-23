@@ -8,5 +8,6 @@ the
 first
 lines
 are okay
+and these are new
 but these
 are new
